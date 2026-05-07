@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+@theme {
+}
+
+html,
+body{
+}
+
+main {
+}
+
+h1{
+  @apply text-6xl font-bold; 
+}
+
+h2{
+  @apply text-2xl font-semibold;
+}
+
+label{
+}
+
+p{
+}
+
+input{
+}
+
+textarea{
+}
+form{
+
+}
+
+@layer{
+}
